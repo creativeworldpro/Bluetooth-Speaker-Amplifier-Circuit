@@ -1,0 +1,2 @@
+# Bluetooth-Speaker-Amplifier-Circuit
+The project is about making a Bluetooth sound speaker circuit. This circuit will pair directly with a device such as a phone or laptop. Bluetooth works using short-range radio waves, for this process the circuit don’t need any internet connection.  This means that, Bluetooth will work anywhere with two compatible devices. For this you don’t need to turn on Bluetooth all time. When you need to connect with speaker through Bluetooth, just then turn on Bluetooth and connect to your compatible devices.
